@@ -1,4 +1,4 @@
-# syllabus
+# Syllabus
 This repository is a syllabus from Minoh Laboratory, ACCMS, Kyoto University.
 
 - Instractor: Michihiko Minoh, Masaaki Iiyama, Mikihiko Mori, Atsushi Hashimoto
